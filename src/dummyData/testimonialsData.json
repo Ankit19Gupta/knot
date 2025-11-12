@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "src": "/images/i1.jpg",
+    "name": "Ankit Gupta",
+    "quote": "This service exceeded my expectations! Highly recommended."
+  },
+  {
+    "id": 2,
+    "src": "/images/i2.jpg",
+    "name": "GM",
+    "quote": "Fantastic experience! The team was incredibly helpful."
+  },
+  {
+    "id": 3,
+    "src": "/images/i3.jpg",
+    "name": "Ankit",
+    "quote": "Great value for money. I'm a very satisfied customer."
+  },
+  {
+    "id": 4,
+    "src": "/images/i3.jpg",
+    "name": "Gupta",
+    "quote": "Absolutely amazing service from start to finish."
+  },
+  {
+    "id": 5,
+    "src": "/images/i3.jpg",
+    "name": "AGM",
+    "quote": "Professional and reliable. Will use again!"
+  },
+  {
+    "id": 6,
+    "src": "/images/i2.jpg",
+    "name": "Ravi",
+    "quote": "A seamless experience with great results."
+  },
+  {
+    "id": 7,
+    "src": "/images/i1.jpg",
+    "name": "Sneha",
+    "quote": "Loved the attention to detail and care."
+  },
+  {
+    "id": 8,
+    "src": "/images/i2.jpg",
+    "name": "Neha",
+    "quote": "Best decision I made this year!"
+  },
+  {
+    "id": 9,
+    "src": "/images/i3.jpg",
+    "name": "Karan",
+    "quote": "Top-notch quality and service!"
+  }
+]

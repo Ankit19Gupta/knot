@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "src": "/images/team.png",
+    "name": "Name",
+    "designation": "Designation"
+  },
+  {
+    "id": 2,
+    "src": "/images/team.png",
+    "name": "Name",
+    "designation": "Designation"
+  },
+  {
+    "id": 3,
+    "src": "/images/team.png",
+    "name": "Name",
+    "designation": "Designation"
+  },
+  {
+    "id": 4,
+    "src": "/images/team.png",
+    "name": "Name",
+    "designation": "Designation"
+  },
+  {
+    "id": 5,
+    "src": "/images/team.png",
+    "name": "Name",
+    "designation": "Designation"
+  }
+]

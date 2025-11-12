@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "packages": "/packages/package1.jpg",
+    "coupleImage": "/packages/couple.png",
+    "flowerImage": "/packages/f2.png",
+    "details": ["Free breakfast", "Two guided persons", "Late checkout"],
+    "price": "₹7,999"
+  },
+  {
+    "id": 2,
+    "packages": "/packages/package2.jpg",
+    "coupleImage": "/packages/couple.png",
+    "flowerImage": "/packages/f3.png",
+    "details": ["Free breakfast", "Two guided persons", "Late checkout"],
+    "price": "₹7,999"
+  },
+  {
+    "id": 3,
+    "packages": "/packages/package2.jpg",
+    "coupleImage": "/packages/couple.png",
+    "flowerImage": "/packages/f4.png",
+    "details": ["Free breakfast", "Two guided persons", "Late checkout"],
+    "price": "₹7,999"
+  },
+  {
+    "id": 4,
+    "packages": "/packages/package2.jpg",
+    "coupleImage": "/packages/couple.png",
+    "flowerImage": "/packages/f1.png",
+    "details": ["Free breakfast", "Two guided persons", "Late checkout"],
+    "price": "₹7,999"
+  }
+]
