@@ -445,7 +445,7 @@ const BookingPage = () => {
       <div className="min-h-screen rounded-2xl flex items-center justify-center">
         <div className="backdrop-blur-sm bg-black/50 p-4 md:p-8 shadow-lg w-full overflow-y-auto 2xl:h-screen">
           <h1 className="text-2xl md:text-3xl lg:text-3xl font-bold mb-6 text-white drop-shadow-md text-center">
-            THE WEDDING SUTRA.IN
+            The Knot&Narratives.in
           </h1>
 
           {savedPackage && (

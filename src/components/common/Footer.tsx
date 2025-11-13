@@ -19,7 +19,7 @@ const Footer = () => {
     <footer className="bg-white border-t relative z-10 border-gray-200">
       <div className="max-w-7xl mx-auto 2xl:max-w-none flex flex-col md:flex-row md:items-center md:justify-between px-4 sm:px-6 lg:px-8 py-4 gap-4 md:gap-0">
         <div className="text-md 2xl:text-xl text-center md:text-left text-gray-700 md:flex-1">
-          &copy; {new Date().getFullYear()} — The Wedding Sutra.in |{" "}
+          &copy; {new Date().getFullYear()} — The Knot&Narratives.in |{" "}
           <span className="font-semibold">Designed & Developed by</span> –{" "}
           <a
             className="text-red-500 font-semibold"
